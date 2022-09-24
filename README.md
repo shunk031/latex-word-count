@@ -1,4 +1,4 @@
-# TeXcount with Docker Container
+# [TeXcount](https://ctan.org/pkg/texcount) with Docker Container
 
 - Build the docker container image
 
